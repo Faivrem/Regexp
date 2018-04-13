@@ -6,7 +6,7 @@ Projet sur les automates
  On entre une regexp en Java :
  
 #### Définition d'une lettre de l'alphabet :
-	A = une lettre
+	[A] = une lettre
 	[ABC] = les lettres présentes entre les accolades
  
 #### Définition des répetitions :
