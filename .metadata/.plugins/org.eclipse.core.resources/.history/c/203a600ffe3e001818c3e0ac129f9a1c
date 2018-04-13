@@ -1,0 +1,17 @@
+
+import java.util.regex.*;
+
+public class RegexpParser {
+
+	private Pattern pattern;
+	private Matcher matcher;
+	
+	public RegexpParser(String pattern_string){
+		
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
