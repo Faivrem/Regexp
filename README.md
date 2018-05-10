@@ -14,7 +14,6 @@ Projet sur les automates
 	[ABC] = les lettres présentes entre les accolades (Cela est considéré comme a ou b ou c)
  
 #### Définition des répetitions :
-	^[X] = Commence par X
 	[X]* = Caractère X 1 ou plusieurs fois
 	[X]? = Caractère X une unique fois
 	
