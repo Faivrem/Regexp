@@ -3,7 +3,9 @@
 Projet sur les automates
 
 #### Entrée du programme
- On entre une regexp en Java :
+Ce programme s'execute en ligne de commande sur un terminal Linux
+ 
+On entre une regexp en Java dont les règles sont citées ci-dessous.
  
 #### Execution
 <code> $javac RegexpParser.java </code>
